@@ -1,0 +1,6 @@
+{
+  "name": "PlanetStack",
+  "description": "Planetary frame stacking and quality analysis app for AVI telescope videos. Aligns frames, scores atmospheric quality, and stacks the sharpest frames into detailed planetary photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
